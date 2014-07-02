@@ -3,7 +3,7 @@ ACaudaLonga
                                                         LIVRO A CAUDA LONGA
                               “A tecnologia transforma o mercado de grandes massas em diversos nichos.”
 
-<img src="img.jpg" align="center" >
+<img src="img.jpg" align="right" >
 
 
 
