@@ -1,11 +1,15 @@
 ACaudaLonga
 =====================
-                                          LIVRO A CAUDA LONGA
+                                                        LIVRO A CAUDA LONGA
 “A tecnologia transforma o mercado de grandes massas em diversos nichos.”
+
+
 1 - O que é a cauda longa? 
 É o lucro dos nichos.
+
 2 – O que o livro aborda?
 A mudança do mercado de massa o mercado de muitos, para o mercado pulverizado o mercado de poucos.
+
 3 - O que a revolução digital?
 Ela transformou o mundo que era feito de átomo(físico) em um mundo digital um mundo feitos por bits, impactando como nos  relacionamos, produzimos e consumimos. Então o mercado que era formado pelos grandes hits, agora ele e formado também pelos pequenos produtores que é o mercado de nichos que consegue distribuir e oferece os seus produtos a um numero cada vez maior a seus consumidores.
 
@@ -14,7 +18,7 @@ Ela transformou o mundo que era feito de átomo(físico) em um mundo digital um 
 Hoje a tecnologia esta cada vez mais disponivel para as pessoas, a produção de um livro, cd e diversos produtos esta cada vez mais fácil. Você pode gravar um cd ou publicar um livro a partir de um aparelho que você tem em casa.
 - Facilidade de distribuição:
 O mercado virtual permite que o seu produto seja armazenado não mais em uma prateleira ou uma loja mais em um banco de dados de um servidor na internet, barateando muito a possibilidade que se possa distribuir e armazena de uma forma simples.
- - Relação de oferta e demanda:
+- Relação de oferta e demanda:
 O mundo digital permite que esse produto seja facilmente localizado com as ferramentas de busca como o Google.   
 5 - Relate o que é a cultura de nicho?
 A cultura de nicho é caracterizada pela invidualidade, customização, queda de fronteiras de tempo e espaço onde tudo está disponível para todos em todos os momentos.
