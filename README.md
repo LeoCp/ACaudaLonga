@@ -49,6 +49,7 @@ Foi de venda de relógios. Um ferroviário resolveu revender os relógios que fo
 8 - Qual é a cauda mais longa?
 - É a da pornografia.
 
+
 9 - A cauda longa só gira em torno dos entretenimentos?
 - Certamente a cauda longa não gira só em torno da mídia e do entretenimento. Ela abrange todos os setores. Alguns exemplos dessas aplicações da cauda longa são:
 - Google.
