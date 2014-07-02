@@ -43,26 +43,27 @@ O mundo digital permite que esse produto seja facilmente localizado com as ferra
 
 8 - Fale sobre a cauda. 
 - Pouquíssimos principais vendem muito e uma infinidade de outros títulos vende pouco, mas somados são maiores que os principais, mercados sem fim.
-9 - Qual foi o primeiro caso registrado de cauda longa? 
-Foi de venda de relógios. Um ferroviário resolveu revender os relógios que foram encaminhados por engano a um comerciante. Enviava via correio, e como comprava por lotes, conseguia um preço bom, tinha uma boa margem de lucro e ainda conseguia vender mais barato que muitos comerciantes locais que exploravam já que era a única fonte. Expandiram e vendiam via catalogo.
 
-8 - Qual é a cauda mais longa?
+9 - Qual foi o primeiro caso registrado de cauda longa? 
+- Foi de venda de relógios. Um ferroviário resolveu revender os relógios que foram encaminhados por engano a um comerciante. Enviava via correio, e como comprava por lotes, conseguia um preço bom, tinha uma boa margem de lucro e ainda conseguia vender mais barato que muitos comerciantes locais que exploravam já que era a única fonte. Expandiram e vendiam via catalogo.
+
+10 - Qual é a cauda mais longa?
 - É a da pornografia.
 
 
-9 - A cauda longa só gira em torno dos entretenimentos?
+11 - A cauda longa só gira em torno dos entretenimentos?
 - Certamente a cauda longa não gira só em torno da mídia e do entretenimento. Ela abrange todos os setores. Alguns exemplos dessas aplicações da cauda longa são:
 - Google.
 - Ebay.
 - Lego.
 
-10 - O que é a regra do 80/20 ?
+12 - O que é a regra do 80/20 ?
 - 20% de um produto é responsável por 80% das vendas e do sucesso. Basicamente esse fenômeno demonstra a grande quantidade das vendas em um pequeno de produtos.
 
-11 – O que é a visão convencional ? 
+13 – O que é a visão convencional ? 
  - A visão convencional é a de que quanto mais escolhas, melhor, pois assim se reconhece que as pessoas são diferentes e se encontram condições para que encontrem o que for mais conveniente, porém há argumentos de que o excesso de escolhas gera confusão e é opressivo.
 
-12 - Relate sobre o paraíso da escolha, que é falado no livro.
+14 - Relate sobre o paraíso da escolha, que é falado no livro.
 - Segundo Schwartz,  a medida que cresce o número de escolhas, também começam a aparecer os pontos negativos de ter enorme variedade de opções. A medida que continua aumentando a quantidade de alternativas, os pontos adversos também se intensificam, até se converterem em sobrecarga. A essa altura, as escolhas não são liberalizantes, mas sim, debilitantes. Até se poderia dizer que se tornam tiranas.
 
 
