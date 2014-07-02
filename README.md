@@ -9,7 +9,7 @@ ACaudaLonga
 
 
 1 - O que é a cauda longa ? 
-- É o lucro dos nichos.
+- É um conceito criado pó Chris Anderson onde mostra a importância do mercado de nicho, que é ao invés de você olhar para um produto que vende grandes unidades e você pensar quantos outros grupos de pessoas existem que consomem produtos menores que somados serão maior que aquele único produto. (O lucro dos nichos)
 
 2 – O que o livro aborda ?
 - A mudança do mercado de massa o mercado de muitos, para o mercado pulverizado o mercado de poucos.
