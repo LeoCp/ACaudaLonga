@@ -55,7 +55,7 @@ Foi de venda de relógios. Um ferroviário resolveu revender os relógios que fo
 11 – O que é a visão convencional ? 
  - A visão convencional é a de que quanto mais escolhas, melhor, pois assim se reconhece que as pessoas são diferentes e se encontram condições para que encontrem o que for mais conveniente, porém há argumentos de que o excesso de escolhas gera confusão e é opressivo.
 
-12 - 12 - Relate sobre o paraíso da escolha, que é falado no livro.
+12 - Relate sobre o paraíso da escolha, que é falado no livro.
 - Segundo Schwartz,  a medida que cresce o número de escolhas, também começam a aparecer os pontos negativos de ter enorme variedade de opções. A medida que continua aumentando a quantidade de alternativas, os pontos adversos também se intensificam, até se converterem em sobrecarga. A essa altura, as escolhas não são liberalizantes, mas sim, debilitantes. Até se poderia dizer que se tornam tiranas.
 
 
