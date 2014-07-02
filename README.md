@@ -20,11 +20,13 @@ Hoje a tecnologia esta cada vez mais disponivel para as pessoas, a produção de
 O mercado virtual permite que o seu produto seja armazenado não mais em uma prateleira ou uma loja mais em um banco de dados de um servidor na internet, barateando muito a possibilidade que se possa distribuir e armazena de uma forma simples.
 - Relação de oferta e demanda:
 O mundo digital permite que esse produto seja facilmente localizado com as ferramentas de busca como o Google.   
+
 5 - Relate o que é a cultura de nicho?
-A cultura de nicho é caracterizada pela invidualidade, customização, queda de fronteiras de tempo e espaço onde tudo está disponível para todos em todos os momentos.
+- A cultura de nicho é caracterizada pela invidualidade, customização, queda de fronteiras de tempo e espaço onde tudo está disponível para todos em todos os momentos.
+
 6 – Quais são os dois pontos principais da cauda longa?
-1 – Disponibilize tudo = “Não pense ou pense e” sempre existe um espaço a mais no mundo virtual.
-2 – Ajude o consumidor a encontrar seu produto = Seja pelas ferramentas de busca, das recomendações.
+- Disponibilize tudo = “Não pense ou pense e” sempre existe um espaço a mais no mundo virtual.
+- Ajude o consumidor a encontrar seu produto = Seja pelas ferramentas de busca, das recomendações.
 
 7 - Cite algumas empresas que segue o modelo da cauda longa.
 - Google: Com a mais eficaz forma de propaganda da cauda longa, através da venda de palavras-chaves, onde qualquer pessoa pode colocar seu anuncio no Google.
