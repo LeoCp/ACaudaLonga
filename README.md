@@ -63,7 +63,7 @@ Foi de venda de relógios. Um ferroviário resolveu revender os relógios que fo
 - Segundo Schwartz,  a medida que cresce o número de escolhas, também começam a aparecer os pontos negativos de ter enorme variedade de opções. A medida que continua aumentando a quantidade de alternativas, os pontos adversos também se intensificam, até se converterem em sobrecarga. A essa altura, as escolhas não são liberalizantes, mas sim, debilitantes. Até se poderia dizer que se tornam tiranas.
 
 
-<video src="https://www.youtube.com/watch?v=1jiz7yAwCjY"></video>
+
 
 
 
