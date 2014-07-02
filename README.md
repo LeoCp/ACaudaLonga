@@ -3,7 +3,7 @@ ACaudaLonga
                                                         LIVRO A CAUDA LONGA
                               “A tecnologia transforma o mercado de grandes massas em diversos nichos.”
 
-<img src="img.jpg" alt="">
+<img src="img.jpg" align="right" >
 
 
 1 - O que é a cauda longa ? 
