@@ -48,3 +48,15 @@ Foi de venda de relógios. Um ferroviário resolveu revender os relógios que fo
 - Google.
 - Ebay.
 - Lego.
+
+10 - O que é a regra do 80/20 ?
+- 20% de um produto é responsável por 80% das vendas e do sucesso. Basicamente esse fenômeno demonstra a grande quantidade das vendas em um pequeno de produtos.
+
+
+
+
+
+
+
+
+
