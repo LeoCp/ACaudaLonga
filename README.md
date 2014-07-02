@@ -4,6 +4,8 @@ ACaudaLonga
                               “A tecnologia transforma o mercado de grandes massas em diversos nichos.”
 
 <center><img src="img.jpg" alt=""></center>
+
+
 1 - O que é a cauda longa ? 
 - É o lucro dos nichos.
 
