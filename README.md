@@ -9,7 +9,7 @@ ACaudaLonga
 
 
 1 - O que é a cauda longa ? 
-- É um conceito criado por Chris Anderson onde mostra a importância do mercado de nicho, que é ao invés de você olhar para um produto que vende grandes unidades e você pensar quantos outros grupos de pessoas existem que consomem produtos menores que somados serão maior que aquele único produto. (O lucro dos nichos)
+- É um conceito criado por Chris Anderson onde mostra a importância do mercado de nicho, que é ao invés de você olhar para um produto que vende grandes unidades e você pensar quantos outros grupos de pessoas existem que consomem produtos menores que somados serão maior que aquele único produto.    (O lucro dos nichos)
 
 2 - O que a revolução digital ? 
 - Ela transformou o mundo que era feito de átomo(físico) em um mundo digital um mundo feitos por bits, impactando como nos  relacionamos, produzimos e consumimos. Então o mercado que era formado pelos grandes hits, agora ele e formado também pelos pequenos produtores que é o mercado de nichos que consegue distribuir e oferece os seus produtos a um numero cada vez maior a seus consumidores.
