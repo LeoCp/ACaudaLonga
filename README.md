@@ -47,7 +47,7 @@ O mundo digital permite que esse produto seja facilmente localizado com as ferra
 Foi de venda de relógios. Um ferroviário resolveu revender os relógios que foram encaminhados por engano a um comerciante. Enviava via correio, e como comprava por lotes, conseguia um preço bom, tinha uma boa margem de lucro e ainda conseguia vender mais barato que muitos comerciantes locais que exploravam já que era a única fonte. Expandiram e vendiam via catalogo.
 
 8 - Qual é a cauda mais longa?
-- É a da pornografia
+- É a da pornografia.
 
 9 - A cauda longa só gira em torno dos entretenimentos?
 - Certamente a cauda longa não gira só em torno da mídia e do entretenimento. Ela abrange todos os setores. Alguns exemplos dessas aplicações da cauda longa são:
